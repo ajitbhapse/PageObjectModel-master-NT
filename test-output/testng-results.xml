@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47269" started-at="2021-02-07T10:20:40Z" finished-at="2021-02-07T10:21:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47269" started-at="2021-02-07T10:20:40Z" finished-at="2021-02-07T10:21:27Z">
+      <class name="com.crm.qa.testcases.TestCreateAccount">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.TestCreateAccount@6a4f787b]" name="setUp" is-config="true" duration-ms="26833" started-at="2021-02-07T15:50:40Z" finished-at="2021-02-07T15:51:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCreateAccountContact()[pri:0, instance:com.crm.qa.testcases.TestCreateAccount@6a4f787b]" name="testCreateAccountContact" duration-ms="19626" started-at="2021-02-07T15:51:07Z" finished-at="2021-02-07T15:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccountContact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.TestCreateAccount@6a4f787b]" name="tearDown" is-config="true" duration-ms="746" started-at="2021-02-07T15:51:26Z" finished-at="2021-02-07T15:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.TestCreateAccount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

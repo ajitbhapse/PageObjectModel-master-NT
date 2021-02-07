@@ -1,0 +1,13 @@
+{
+	
+	"testCreateAccountContact": {
+		"accountsTab" : "Account",
+		"accountName" : "AbAccount",
+		"type"        : "Prospect",
+		"rating"	  : "Warm",
+		"salution"	  : "Mr.",
+		"firstName"   : "ajit",
+		"lastName"	  : "bhapse",
+		"dateOfBirth" : "2/27/1999"	
+	}
+}
